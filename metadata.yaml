@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '39133'
     url: http://www.gutenberg.org/2009/agents/39133
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45856#The-SmugglersPicturesque-Chapters-in-the-Story-of-an-Ancient-Craft
 gutenberg_issued: '2014-06-01'
 gutenberg_type: Text
 identifiers:
