@@ -1,0 +1,35 @@
+_repo: The-SmugglersPicturesque-Chapters-in-the-Story-of-an-Ancient-Craft_45856
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Hardy, Paul
+    alias: Hardy, David Paul Frederick
+    birthdate: 1862
+    deathdate: 1942
+    gutenberg_agent_id: '9890'
+    url: http://www.gutenberg.org/2009/agents/9890
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Harper, Charles G. (Charles George)
+    alias: Harper, C. G.
+    birthdate: 1863
+    deathdate: 1943
+    gutenberg_agent_id: '39133'
+    url: http://www.gutenberg.org/2009/agents/39133
+description: ''
+gutenberg_issued: '2014-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45856'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HJ'
+- !lcsh 'Smuggling -- Great Britain'
+title: 'The Smugglers: Picturesque Chapters in the Story of an Ancient Craft'
+url: http://www.gutenberg.org/ebooks/45856
